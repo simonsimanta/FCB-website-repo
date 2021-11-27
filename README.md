@@ -2,4 +2,4 @@
 
 My first website devlopment using HTML CSS 
 
-![link](https://simonsimanta.github.io/FC-Barcelona/site/)
+[link](https://simonsimanta.github.io/FC-Barcelona/site/)
